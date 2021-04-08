@@ -11,7 +11,7 @@ let message = document.querySelector('.message');
 
 
 
-//FONCTION GENERAL DU JEU 
+//FONCTION GENERALE DU JEU 
 
 function jeu() {
 
