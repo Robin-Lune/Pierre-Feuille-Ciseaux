@@ -1,0 +1,97 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  /* background-color: #FBAB7E;
+background-image: linear-gradient(62deg, #FBAB7E 0%, #F7CE68 100%);     */
+  background-image: url(images/fond.jpg);
+  background-size: cover;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.container {
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column;
+  margin: auto;
+  align-items: center;
+  background-color: rgba(250, 223, 189, 0.2);
+  border-radius: 20px;
+  min-width: 40vw;
+  min-height: 40vh;
+}
+
+h1 {
+  margin: 50px;
+  margin-bottom: 30px;
+  color: #89aef3;
+  letter-spacing: 2px;
+  word-spacing: 20px;
+  border: 2px solid #89aef3;
+  border-radius: 15px;
+  padding: 10px;
+}
+
+h2 {
+  margin: 0 10px 0 10px;
+  font-size: 2.5rem;
+  color: rgb(233, 233, 233);
+}
+
+h3 {
+  font-size: 1.5rem;
+  text-align: center;
+}
+
+p {
+  font-size: 1.5rem;
+  font-weight: 800;
+}
+
+.resultat {
+  display: flex;
+  align-items: center;
+  color: rgb(233, 233, 233);
+  height: 40vh;
+  margin: 10px auto;
+}
+
+.joueur,
+.ordi {
+  display: flex;
+  flex-direction: column;
+  margin: 100px;
+}
+#scorej,
+#scoreo {
+  text-align: center;
+}
+
+.mainJ,
+.mainO {
+  width: 200px;
+  margin: auto;
+}
+
+button {
+  border: none;
+  border-radius: 20px;
+  margin: 10px 20px 20px 20px;
+  padding: 10px 20px;
+  font-size: 1.2rem;
+  font-weight: 600;
+  color: rgb(233, 233, 233);
+  background: linear-gradient(
+    90deg,
+    rgba(227, 94, 46, 1) 0%,
+    rgba(247, 133, 0, 1) 100%
+  );
+  cursor: pointer;
+}
+
+/*  MAJ du fichier le 08/04/2021 LEBON Robin  */
