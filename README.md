@@ -1,6 +1,8 @@
 # Pierre-Feuille-Ciseaux
 Petit jeu pour m'entrainer au HTML / CSS / Javascript
 
+voir la page github : https://robin-lune.github.io/Pierre-Feuille-Ciseaux/
+
 Un petit projet de jeu pour m'entrainer au JavaScript et faire une mise en page plutot ésthetique. 
 Après 2 semaines d'informations, de lectures et de tutos. Je décide de mettre en pratique ce que j'ai appris. 
 
